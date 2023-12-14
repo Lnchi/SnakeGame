@@ -1,15 +1,15 @@
 **Snake Game**
 
-Create a snake body
+- Create a snake body
 
-Move the snake
+- Move the snake
 
-Control the snake
+- Control the snake
 
-Detect collision with food
+- Detect collision with food
 
-Create a scoreboard
+- Create a scoreboard
 
-Detect collision with wall
+- Detect collision with wall
 
-Detect collision with tail
+- Detect collision with tail
